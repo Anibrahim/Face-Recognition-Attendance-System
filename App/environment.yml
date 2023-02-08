@@ -6,7 +6,6 @@
      - scipy
      - opencv_python
      - face_recognition
-     - imutils
      - openpyxl
      - pandas
      - Pillow

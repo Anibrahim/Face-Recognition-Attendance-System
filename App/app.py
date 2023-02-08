@@ -3,15 +3,12 @@ import pandas as pd
 from PIL import Image
 import pickle as pkle
 import os.path
-from io import StringIO
-from io import BytesIO
+from io import StringIO, BytesIO
 import webbrowser, os
 from pathlib import Path
-from imutils import paths
 import face_recognition
 import pickle
 import cv2
-import os
 import smtplib
 import xlsxwriter
 from datetime import datetime, timedelta
