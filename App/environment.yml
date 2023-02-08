@@ -1,0 +1,14 @@
+ channels:
+     - conda-forge
+ dependencies:
+     - dlib
+     - numpy
+     - scipy
+     - opencv_python
+     - face_recognition
+     - imutils
+     - openpyxl
+     - pandas
+     - Pillow
+     - streamlit
+     - XlsxWriter
