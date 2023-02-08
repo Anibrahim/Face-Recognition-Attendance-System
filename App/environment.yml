@@ -4,7 +4,7 @@
      - dlib
      - numpy
      - scipy
-     - opencv_python
+     - opencv
      - face_recognition
      - openpyxl
      - pandas
