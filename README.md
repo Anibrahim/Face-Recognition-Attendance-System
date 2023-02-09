@@ -1,17 +1,17 @@
 # Face-Recognition-Attendance-System
 Face Detection | Recognition | Attendance
 
-Abstract
+#Abstract
 We seek to provide a valuable attendance service for both school and Parents. Reduce manual process errors by provide automated and a reliable attendance system uses face recognition technology.
 
-Features 
+#Features 
 •	Check Camera
 •	Capture Faces
 •	Recognize Faces & Attendance
 •	Automatic Email
 
 
-Tech Used
+#Tech Used
 •	Python
 •	face_recognition
 •	pickle
